@@ -16,7 +16,10 @@ export const Route = createFileRoute("/marcus/careers")({
           "Join the Marcus Addis team on the 47th floor. Send in your resume even if the position you're looking for isn't listed.",
       },
       { property: "og:title", content: "Careers at Marcus Addis" },
-      { property: "og:description", content: "Grow with us — front of house, back of house, bar, and beyond." },
+      {
+        property: "og:description",
+        content: "Grow with us — front of house, back of house, bar, and beyond.",
+      },
       { property: "og:image", content: MEDIA.aboutB },
       { name: "twitter:image", content: MEDIA.aboutB },
     ],

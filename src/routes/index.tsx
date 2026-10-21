@@ -14,7 +14,8 @@ export const Route = createFileRoute("/")({
       { property: "og:title", content: "Marcus Addis — A Homecoming for Chef Marcus Samuelsson" },
       {
         property: "og:description",
-        content: "A fusion of Marcus' world-renowned cuisine with an unforgettable Ethiopian twist.",
+        content:
+          "A fusion of Marcus' world-renowned cuisine with an unforgettable Ethiopian twist.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

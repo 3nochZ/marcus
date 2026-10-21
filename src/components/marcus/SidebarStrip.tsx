@@ -1,8 +1,8 @@
 import { motion, AnimatePresence } from "motion/react";
 import { useState } from "react";
 import { Link } from "@tanstack/react-router";
-import { useContactOverlay } from "@/components/adelt/useContactOverlay";
-import { DualTextButton } from "@/components/adelt/DualTextButton";
+import { useContactOverlay } from "@/components/marcus/useContactOverlay";
+import { DualTextButton } from "@/components/marcus/DualTextButton";
 
 import logo from "@/assets/marcus/logo-vertical.png.asset.json";
 import { MARCUS_NAV } from "@/components/marcus/media";
@@ -89,7 +89,11 @@ export function SidebarStrip() {
                         key={item.label}
                         initial={{ y: 20, opacity: 0 }}
                         animate={{ y: 0, opacity: 1 }}
-                        transition={{ delay: 0.15 + i * 0.04, duration: 0.6, ease: [0.21, 1, 0.32, 1] }}
+                        transition={{
+                          delay: 0.15 + i * 0.04,
+                          duration: 0.6,
+                          ease: [0.21, 1, 0.32, 1],
+                        }}
                       >
                         <Link
                           to={item.href}
@@ -113,8 +117,12 @@ export function SidebarStrip() {
                 </div>
 
                 <div className="flex gap-5 text-eyebrow text-primary/60">
-                  <a href="tel:+251945111111" className="hover:text-accent">+251 945 11 11 11</a>
-                  <a href="#" className="hover:text-accent">Instagram</a>
+                  <a href="tel:+251945111111" className="hover:text-accent">
+                    +251 945 11 11 11
+                  </a>
+                  <a href="#" className="hover:text-accent">
+                    Instagram
+                  </a>
                 </div>
               </div>
             </motion.div>
@@ -124,4 +132,3 @@ export function SidebarStrip() {
     </>
   );
 }
-

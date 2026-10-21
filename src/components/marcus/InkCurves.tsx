@@ -68,11 +68,7 @@ export function InkCurves() {
   }, []);
 
   return (
-    <div
-      ref={sectionRef}
-      aria-hidden
-      className="pointer-events-none absolute inset-0 z-0"
-    >
+    <div ref={sectionRef} aria-hidden className="pointer-events-none absolute inset-0 z-0">
       <svg
         viewBox="0 0 1600 1700"
         preserveAspectRatio="xMidYMid slice"

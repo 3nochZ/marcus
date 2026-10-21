@@ -17,7 +17,10 @@ export const Route = createFileRoute("/marcus/private-events")({
           "From bridal showers to business gatherings — Desta, Gobez and Selam host unforgettable events on the 47th floor.",
       },
       { property: "og:title", content: "Private Events at Marcus Addis" },
-      { property: "og:description", content: "Buyouts, long tables and dedicated servers with a view." },
+      {
+        property: "og:description",
+        content: "Buyouts, long tables and dedicated servers with a view.",
+      },
       { property: "og:image", content: privateEventsHero.url },
       { name: "twitter:image", content: privateEventsHero.url },
     ],
@@ -26,9 +29,24 @@ export const Route = createFileRoute("/marcus/private-events")({
 });
 
 const ROOMS = [
-  { name: "Desta", img: MEDIA.eventsRoom1, capacity: "Up to 40 guests", desc: "Bright corner room with unbroken views across Addis Ababa." },
-  { name: "Gobez", img: MEDIA.eventsRoom2, capacity: "Up to 24 guests", desc: "Intimate boardroom-style setting for business gatherings." },
-  { name: "Selam", img: MEDIA.eventsRoom3, capacity: "Up to 80 guests", desc: "Our largest space for weddings, showers and celebrations." },
+  {
+    name: "Desta",
+    img: MEDIA.eventsRoom1,
+    capacity: "Up to 40 guests",
+    desc: "Bright corner room with unbroken views across Addis Ababa.",
+  },
+  {
+    name: "Gobez",
+    img: MEDIA.eventsRoom2,
+    capacity: "Up to 24 guests",
+    desc: "Intimate boardroom-style setting for business gatherings.",
+  },
+  {
+    name: "Selam",
+    img: MEDIA.eventsRoom3,
+    capacity: "Up to 80 guests",
+    desc: "Our largest space for weddings, showers and celebrations.",
+  },
 ];
 
 const FEATURES = ["Special Menus", "Dedicated Hosts", "Dedicated Servers & Bartenders"];

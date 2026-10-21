@@ -1,8 +1,8 @@
 import { Link } from "@tanstack/react-router";
 import { motion, useScroll, useTransform } from "motion/react";
 import { useRef } from "react";
-import { SplitLines } from "@/components/adelt/SplitLines";
-import { DualTextButton } from "@/components/adelt/DualTextButton";
+import { SplitLines } from "@/components/marcus/SplitLines";
+import { DualTextButton } from "@/components/marcus/DualTextButton";
 import { MEDIA } from "@/components/marcus/media";
 import { InkCurves } from "@/components/marcus/InkCurves";
 
@@ -17,7 +17,9 @@ export function Positioning() {
             lines={[
               <>International cuisine,</>,
               <>reimagined through</>,
-              <>an <em className="italic text-accent">Ethiopian</em> lens.</>,
+              <>
+                an <em className="italic text-accent">Ethiopian</em> lens.
+              </>,
             ]}
           />
         </h2>
@@ -108,13 +110,19 @@ export function ChefQuote() {
               <>and my wife, Maya. My culinary</>,
               <>journey has always been</>,
               <>influenced by our family roots</>,
-              <>here in <em className="not-italic text-accent">Ethiopia</em>."</>,
+              <>
+                here in <em className="not-italic text-accent">Ethiopia</em>."
+              </>,
             ]}
           />
         </blockquote>
         <div className="mt-14">
           <Link to="/marcus/about">
-            <DualTextButton label="Our story" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10" />
+            <DualTextButton
+              label="Our story"
+              variant="outline"
+              className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
+            />
           </Link>
         </div>
       </div>
@@ -133,7 +141,9 @@ export function HomeTeasers({ onReserve }: { onReserve: () => void }) {
           <SplitLines
             lines={[
               <>Small plates.</>,
-              <><em className="italic text-accent">Wagyu</em>.</>,
+              <>
+                <em className="italic text-accent">Wagyu</em>.
+              </>,
               <>Family-style feasts.</>,
             ]}
           />
@@ -150,7 +160,9 @@ export function HomeTeasers({ onReserve }: { onReserve: () => void }) {
           <SplitLines
             lines={[
               <>Forty-seven floors</>,
-              <>above <em className="italic text-accent">Addis Ababa</em>.</>,
+              <>
+                above <em className="italic text-accent">Addis Ababa</em>.
+              </>,
             ]}
           />
         }
@@ -167,7 +179,9 @@ export function HomeTeasers({ onReserve }: { onReserve: () => void }) {
           <SplitLines
             lines={[
               <>Celebrations,</>,
-              <>hosted <em className="italic text-accent">your way</em>.</>,
+              <>
+                hosted <em className="italic text-accent">your way</em>.
+              </>,
             ]}
           />
         }

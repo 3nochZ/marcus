@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import { Toaster } from "@/components/ui/sonner";
-import { ContactOverlayProvider } from "@/components/adelt/useContactOverlay";
+import { ContactOverlayProvider } from "@/components/marcus/useContactOverlay";
 import { SidebarStrip } from "@/components/marcus/SidebarStrip";
 import { Footer } from "@/components/marcus/Footer";
 import { ContactOverlay } from "@/components/marcus/ContactOverlay";

@@ -15,23 +15,21 @@ export function Footer() {
             />
           </div>
           <p className="mt-4 max-w-sm text-secondary leading-relaxed">
-            Chef Marcus Samuelsson's first restaurant in Africa — Ethiopian roots,
-            Swedish craft, Harlem soul, served at the top of East Africa's tallest
-            building.
+            Chef Marcus Samuelsson's first restaurant in Africa — Ethiopian roots, Swedish craft,
+            Harlem soul, served at the top of East Africa's tallest building.
           </p>
         </div>
 
         <div className="md:col-span-3">
           <div className="text-eyebrow text-secondary">Visit</div>
           <p className="mt-4 leading-relaxed">
-            Head Office Tower, 47th Floor<br />
-            Ras Desta Damtew<br />
+            Head Office Tower, 47th Floor
+            <br />
+            Ras Desta Damtew
+            <br />
             Addis Ababa, Ethiopia
           </p>
-          <a
-            href="tel:+251945111111"
-            className="mt-4 inline-block text-eyebrow hover:text-accent"
-          >
+          <a href="tel:+251945111111" className="mt-4 inline-block text-eyebrow hover:text-accent">
             +251 945 11 11 11
           </a>
         </div>

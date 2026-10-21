@@ -23,10 +23,14 @@ export const Route = createFileRoute("/marcus/menus")({
       { title: "Menus — Marcus Addis" },
       {
         name: "description",
-        content: "Lunch, Dinner, Bar Menu and Wine List. Ethio-Swedish plates from Chef Marcus Samuelsson.",
+        content:
+          "Lunch, Dinner, Bar Menu and Wine List. Ethio-Swedish plates from Chef Marcus Samuelsson.",
       },
       { property: "og:title", content: "Menus at Marcus Addis" },
-      { property: "og:description", content: "Ethio–Swedish plates. Cocktails, wines, and family style." },
+      {
+        property: "og:description",
+        content: "Ethio–Swedish plates. Cocktails, wines, and family style.",
+      },
       { property: "og:image", content: MEDIA.menusHeader1 },
       { name: "twitter:image", content: MEDIA.menusHeader1 },
     ],
@@ -38,7 +42,6 @@ function MenusPage() {
   const [tab, setTab] = useState(TABS[0]);
   const sections = DATA[tab];
   const subKeys = useMemo(() => Object.keys(sections), [sections]);
-  
 
   return (
     <MarcusShell>
@@ -75,12 +78,7 @@ function MenusPage() {
 
       <section className="bg-background py-20 lg:py-28">
         <div className="px-6 lg:px-16 max-w-5xl mx-auto">
-          <Accordion
-            type="multiple"
-            key={tab}
-            defaultValue={subKeys}
-            className="w-full"
-          >
+          <Accordion type="multiple" key={tab} defaultValue={subKeys} className="w-full">
             {subKeys.map((sub) => {
               const items = sections[sub];
               return (
@@ -103,9 +101,7 @@ function MenusPage() {
                         <li key={i} className="grid grid-cols-12 gap-4 py-5 items-baseline">
                           <div className="col-span-12 md:col-span-8">
                             <h3 className="font-display text-xl leading-tight">
-                              {it.title || (
-                                <span className="text-secondary italic">Untitled</span>
-                              )}
+                              {it.title || <span className="text-secondary italic">Untitled</span>}
                             </h3>
                             {it.desc && (
                               <p className="mt-1 text-secondary text-sm leading-[1.65] max-w-[65ch]">
@@ -117,7 +113,6 @@ function MenusPage() {
                             <span className="font-display text-lg text-accent whitespace-nowrap">
                               {it.price ? `${it.price.replace(/\$/g, "").trim()} Br` : "—"}
                             </span>
-
                           </div>
                         </li>
                       ))}

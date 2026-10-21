@@ -2,7 +2,7 @@ import { AnimatePresence, motion } from "motion/react";
 import { useEffect, useState, type FormEvent } from "react";
 import { Range, getTrackBackground } from "react-range";
 import { toast } from "sonner";
-import { useContactOverlay } from "@/components/adelt/useContactOverlay";
+import { useContactOverlay } from "@/components/marcus/useContactOverlay";
 
 export function ContactOverlay() {
   const { open, setOpen } = useContactOverlay();
@@ -66,30 +66,49 @@ export function ContactOverlay() {
               <form onSubmit={onSubmit} className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <label className="flex flex-col gap-2 text-eyebrow">
                   Name
-                  <input required className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors" />
+                  <input
+                    required
+                    className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors"
+                  />
                 </label>
                 <label className="flex flex-col gap-2 text-eyebrow">
                   Email
-                  <input required type="email" className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors" />
+                  <input
+                    required
+                    type="email"
+                    className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors"
+                  />
                 </label>
                 <label className="flex flex-col gap-2 text-eyebrow">
                   Date
-                  <input required type="date" className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors" />
+                  <input
+                    required
+                    type="date"
+                    className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors"
+                  />
                 </label>
                 <label className="flex flex-col gap-2 text-eyebrow">
                   Time
-                  <input required type="time" className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors" />
+                  <input
+                    required
+                    type="time"
+                    className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors"
+                  />
                 </label>
                 <label className="flex flex-col gap-2 text-eyebrow md:col-span-2">
                   Special requests
-                  <textarea rows={3} className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors resize-none" />
+                  <textarea
+                    rows={3}
+                    className="border-b border-primary/20 bg-transparent py-3 font-sans text-base focus:border-accent focus:outline-none transition-colors resize-none"
+                  />
                 </label>
 
                 <div className="md:col-span-2 mt-4">
                   <div className="flex items-baseline justify-between mb-6">
                     <span className="text-eyebrow">Party size</span>
                     <span className="font-display text-3xl">
-                      {party[0]}<span className="text-secondary text-lg"> guests</span>
+                      {party[0]}
+                      <span className="text-secondary text-lg"> guests</span>
                     </span>
                   </div>
                   <Range
@@ -106,7 +125,10 @@ export function ContactOverlay() {
                           height: "2px",
                           background: getTrackBackground({
                             values: party,
-                            colors: ["var(--accent)", "color-mix(in oklab, var(--primary) 15%, transparent)"],
+                            colors: [
+                              "var(--accent)",
+                              "color-mix(in oklab, var(--primary) 15%, transparent)",
+                            ],
                             min: 1,
                             max: 20,
                           }),

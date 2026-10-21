@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
-import { useContactOverlay } from "@/components/adelt/useContactOverlay";
+import { useContactOverlay } from "@/components/marcus/useContactOverlay";
 
 export function StickyReserve() {
   const contact = useContactOverlay();
@@ -31,11 +31,18 @@ export function StickyReserve() {
         >
           <span className="btn-dual">
             <span className="btn-dual__a">Reserve</span>
-            <span className="btn-dual__b" aria-hidden="true">Reserve</span>
+            <span className="btn-dual__b" aria-hidden="true">
+              Reserve
+            </span>
           </span>
           <span className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-primary-foreground/15">
             <svg width="12" height="10" viewBox="0 0 14 10" fill="none">
-              <path d="M0 5h12M8 1l4 4-4 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="square" />
+              <path
+                d="M0 5h12M8 1l4 4-4 4"
+                stroke="currentColor"
+                strokeWidth="1.5"
+                strokeLinecap="square"
+              />
             </svg>
           </span>
         </motion.button>
