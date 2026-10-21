@@ -1,0 +1,3 @@
+- [x] Remove unrelated routes while preserving Marcus navigation and the legacy homepage redirect.
+- [x] Verify the retained pages and removed URLs in the running site.
+- [x] Compare this version with marcusaddis.com and report confirmed differences and limitations.

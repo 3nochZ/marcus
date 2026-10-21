@@ -1,0 +1,1248 @@
+{
+  "Lunch": {
+    "Snacks & Bread": [
+      {
+        "title": "Mercato Bread Basket",
+        "desc": "Fasting Option Available Cornbread, injera, teff biscuit, mar butter, herb chutney, awaze hummus *dairy / gluten / egg",
+        "price": "$ 700"
+      },
+      {
+        "title": "Dips & Hummus",
+        "desc": "Fasting Item Chickpea, roasted garlic, herb chutney, avocado, injera, carrots, seasonal fruits *sesame",
+        "price": "$ 1,525"
+      },
+      {
+        "title": "Harar Grilled Flatbread",
+        "desc": "Fasting Option Available Roasted tomato sauce, ground beef, awaze, ayib cheese, parmesan cheese *dairy / gluten",
+        "price": "$ 1,860"
+      }
+    ],
+    "Small Plates": [
+      {
+        "title": "Soup of The Day",
+        "desc": "",
+        "price": "$ 900"
+      },
+      {
+        "title": "The Royal Egg",
+        "desc": "Whipped egg yolks, mustard caviar, berbere oil, chopped chives *egg / mustard",
+        "price": "$ 1,400"
+      },
+      {
+        "title": "Addis Kitfo Thaipian",
+        "desc": "Diced tuna, beef, avocado puree, awaze, lemon, fried capers",
+        "price": "$ 2,000"
+      }
+    ],
+    "Salads": [
+      {
+        "title": "Maya's Chopped Salad",
+        "desc": "Fasting Item Chopped kale, cauliflower rice, coconut flakes, apples, cucumber, parmesan, sesame dressing Add-on Grilled Chicken *sesame",
+        "price": "$ 1,440"
+      },
+      {
+        "title": "Chef Odi's Farm",
+        "desc": "Fasting Item Farm mixed greens, candied pumpkin seed, cherry tomato, cucumber, pickled beets, passion fruit dressing *gluten / pumpkin seeds",
+        "price": "$ 1,450"
+      }
+    ],
+    "Large Plates": [
+      {
+        "title": "Glazed Nile Perch",
+        "desc": "Fried jollof rice, egg, tomato broth, greens, lemon, tomato, mango salsa",
+        "price": "$ 3,300"
+      },
+      {
+        "title": "Addis Chicken & Waffle",
+        "desc": "Potato wa\u001de, batter fried chicken, berbere honey, pickles *dairy / gluten",
+        "price": "$ 2,500"
+      },
+      {
+        "title": "Orange Roasted Chicken",
+        "desc": "Roasted chicken, kinche salad, smashed potato, gomen hummus, herb vinaigrette, chicken jus, mar carrots *dairy",
+        "price": "$ 3,300"
+      },
+      {
+        "title": "Bole Beef Bolo Teff Tagliatelle",
+        "desc": "Fasting Option Available Roasted tomato bolognese sauce, vegetables, injera dust, toasted baguette bread, ayib, parmesan cheese *dairy / gluten",
+        "price": "$ 3,000"
+      },
+      {
+        "title": "Picadilly Pasta",
+        "desc": "Fasting Option Available Shrimps, local fish, XO sauce, vegetables, ayib cheese, parmesan cheese, durkosh *shellfish / dairy / gluten",
+        "price": "$ 2,700"
+      },
+      {
+        "title": "Crispy Chicken Sandwich",
+        "desc": "Johnny bread, spicy aioli, shredded lettuce, tomato, hot honey, French fries *dairy / egg / gluten",
+        "price": "$ 2,400"
+      },
+      {
+        "title": "M’s Smash Burger",
+        "desc": "Johnny bread, spicy aioli, lettuce, tomato, cheese, fried pickles, French fries *dairy / egg / gluten",
+        "price": "$ 2,400"
+      },
+      {
+        "title": "Addis Curry Cauliflower",
+        "desc": "Fasting Item Creamy coconut curry sauce, chickpea, carrots, broccoli, zebra beans, white rice",
+        "price": "$ 3,500"
+      },
+      {
+        "title": "Addis Fried Yard Bird",
+        "desc": "Peri-peri sauce, pickles, spicy honey garlic, berbere fries *dairy / gluten",
+        "price": "$ 2,400"
+      },
+      {
+        "title": "Steak Frites",
+        "desc": "French fries, roasted veggies, beef jus, herb vin *dairy",
+        "price": "$ 3,000"
+      }
+    ],
+    "Sides": [
+      {
+        "title": "Baked Mac and Cheese",
+        "desc": "*gluten / dairy",
+        "price": "$ 950"
+      },
+      {
+        "title": "Smashed Potato",
+        "desc": "Herb vin, grated cheese *dairy",
+        "price": "$ 660"
+      },
+      {
+        "title": "Berbere Fries",
+        "desc": "Fasting Option Available Hand-cut fries, berbere",
+        "price": "$ 550"
+      }
+    ]
+  },
+  "Dinner": {
+    "Merkato & Bread Basket": [
+      {
+        "title": "Bread Basket PP",
+        "desc": "Golden jalapeño cornbread, crispy injera chips, nutty teff biscuits, mar butter, herb chutney, awaze-spiced hummus *dairy / gluten",
+        "price": "$ 600"
+      },
+      {
+        "title": "Royal Eggs",
+        "desc": "Soft-boiled eggs, whipped yolk, berbere-infused oil, mustard seed caviar, chopped chives *egg / mustard",
+        "price": "$ 1,400"
+      },
+      {
+        "title": "Dips & Hummus",
+        "desc": "Crispy injera chips and fresh vegetables, served with a vibrant spread of chickpea hummus, roasted garlic, herb chutney, avocado, seasonal fruit *sesame",
+        "price": "$ 1,500"
+      }
+    ],
+    "Small Plates": [
+      {
+        "title": "Cardamom Teff Carrot Soup",
+        "desc": "Crispy shrimp, crumbled teff, herb oil *shellfish",
+        "price": "$ 1,650"
+      },
+      {
+        "title": "Swediopian",
+        "desc": "Sliced berbere-cured salmon, mango salsa, carrot water, pickled vegetables, lemon *fish",
+        "price": "$ 2,200"
+      },
+      {
+        "title": "Kolo Dusted Goat",
+        "desc": "Pan-seared goat, papaya-cucumber slaw, kolo nuts, roasted cauliflower puree *peanuts",
+        "price": "$ 1,900"
+      },
+      {
+        "title": "Harar Grilled Flatbread",
+        "desc": "Roasted tomato sauce, ground beef, awaze, ayib cheese, parmesan cheese *dairy / gluten",
+        "price": "$ 1,860"
+      },
+      {
+        "title": "Surf & Turf Kitfo",
+        "desc": "Diced fish, beef, avocado puree, awaze, lemon, fried capers",
+        "price": "$ 2,000"
+      }
+    ],
+    "Salads": [
+      {
+        "title": "Addis Caesar",
+        "desc": "Grilled bishofiu chicken breast, crisp romaine, Ethiopian-spiced Caesar dressing, toasted croutons, citrus *dairy / gluten",
+        "price": "$ 1,800"
+      },
+      {
+        "title": "Chef Odi's Farm Salad",
+        "desc": "Fresh mix of baby greens, pumpkin seeds, tomatoes, cucumber, pickled beets, passion fruit vinaigrette",
+        "price": "$ 1,400"
+      },
+      {
+        "title": "Maya’s Chopped Salad",
+        "desc": "Chopped kale, cauliflower rice, toasted coconut, apples, glazed mozzarella, sesame dressing Add Tender Grilled Chicken 200 *sesame / dairy",
+        "price": "$ 1,400"
+      }
+    ],
+    "Marcus’ Specials": [
+      {
+        "title": "Scallop Crudo",
+        "desc": "Carrot broth, berbere durkosh, slaw, lime pepper *shellfish",
+        "price": "$ 3,000"
+      },
+      {
+        "title": "Grilled Jumbo Prawns 4 pcs",
+        "desc": "Garlic butter, kinche salad, herb vin, pickles *shellfish",
+        "price": "$ 9,000"
+      },
+      {
+        "title": "Awaze Lamb Chops 4pcs",
+        "desc": "Australian lamb chop, carrots, smashed potato, pickles *dairy",
+        "price": "$ 12,000"
+      },
+      {
+        "title": "Lobster Thermidor",
+        "desc": "Lobster meat, béchamel sauce, mushroom, cheese, berbere fries, choron sauce *shellfish / dairy",
+        "price": "$ 8,800"
+      },
+      {
+        "title": "Sesame Crusted Tuna Steak",
+        "desc": "Ginger soy sauce, coconut rice, greens",
+        "price": "$ 12,000"
+      },
+      {
+        "title": "Citrus Glazed Black Cod",
+        "desc": "Roasted carrot puree, honey-glazed broccoli, kolo nuts *fish / dairy",
+        "price": "$ 9,000"
+      }
+    ],
+    "*Imported Meat": [
+      {
+        "title": "Tenderloin Wagyu 220G",
+        "desc": "",
+        "price": "$ 13,000"
+      },
+      {
+        "title": "Striploin Wagyu 250G",
+        "desc": "",
+        "price": "$ 11,000"
+      },
+      {
+        "title": "M's Ribeye Wagyu 350G",
+        "desc": "",
+        "price": "$ 12,000"
+      },
+      {
+        "title": "47th Tomahawk for Two",
+        "desc": "With two complimentary slices of cake",
+        "price": "$ 50,000"
+      },
+      {
+        "title": "With a Side Of",
+        "desc": "Roasted vegetables / jojo potatoes / jollof rice",
+        "price": ""
+      }
+    ],
+    "Harvest Bounty": [
+      {
+        "title": "Addis Curry Cauliflower",
+        "desc": "Creamy coconut curry simmered with chickpeas, carrots, broccoli, zebra beans, white rice",
+        "price": "$ 3,500"
+      },
+      {
+        "title": "Teff Tagliatelle",
+        "desc": "Home-made teff pasta, chickpea ragu, roasted tomato sauce, vegetables, warm garlic bread *gluten",
+        "price": "$ 3,500"
+      }
+    ],
+    "Water to Earth": [
+      {
+        "title": "Citrus Grilled Salmon",
+        "desc": "Gomen hummus, local stew beans, shredded chicken, salad salsa *fish",
+        "price": "$ 6,000"
+      },
+      {
+        "title": "Glazed Nile Perch",
+        "desc": "Fried jollof rice, egg, tomato broth, greens, lemon, mango salsa *fish",
+        "price": "$ 3,300"
+      },
+      {
+        "title": "Orange Roasted Chicken",
+        "desc": "Roasted chicken, kinche salad, smashed potato, gomen hummus, herb vinaigrette, chicken jus, mar carrots *dairy",
+        "price": "$ 3,300"
+      },
+      {
+        "title": "Addis Chicken & Waffle",
+        "desc": "Potato waffie, batter-fried chicken, berbere honey, pickles *dairy / gluten",
+        "price": "$ 2,500"
+      }
+    ],
+    "Family Style": [
+      {
+        "title": "M's Whole Fried Chicken",
+        "desc": "Juicy whole chicken with crispy skin, golden jalapeño cornbread, creamy gomen, teff biscuits, jojo potatoes, and hot honey. A signature Marcus classic *gluten / dairy / egg",
+        "price": "$ 8,470"
+      },
+      {
+        "title": "Grand Feast",
+        "desc": "Festive mix of grilled shrimp, braised lamb, curried goat, jollof rice, roasted vegetables, gomen, chickpeas, grilled tomato *gluten / shellfish",
+        "price": "$ 10,890"
+      },
+      {
+        "title": "Steak of The Day",
+        "desc": "Smashed potato, BBQ-glazed roasted vegetables, beef jus, herb vinaigrette *ask your server for today's cut...",
+        "price": "$ 3,600"
+      },
+      {
+        "title": "Merkato Lamb Rigatoni",
+        "desc": "Fasting Version Available Slow-cooked lamb, roasted vegetables, pink creamy mushroom sauce, Ethiopian cottage cheese, warm garlic baguette *gluten / dairy",
+        "price": "$ 2,700"
+      },
+      {
+        "title": "Bole Beef Bolo Teff Tagliatelle",
+        "desc": "Fasting Version Available House-made teff pasta, spiced tomato beef ragu, spinach, Ethiopian cottage cheese, injera dust finish, warm garlic baguette *dairy / gluten",
+        "price": "$ 3,000"
+      },
+      {
+        "title": "The Adwa Saturday Special",
+        "desc": "Layered lasagne with doro wat, crispy fried chicken, spicy wat sauce, grilled tomato, royal egg, pickles *dairy / gluten",
+        "price": "$ 3,600"
+      },
+      {
+        "title": "Vegan Grand",
+        "desc": "Joyous spread of gomen, jollof rice, potato wedges, sautéed spinach, chickpeas, grilled tomato *gluten",
+        "price": "$ 5,450"
+      },
+      {
+        "title": "Herb Grilled Lamb",
+        "desc": "Jollof, BBQ-glazed roasted vegetables, beef jus, herb vinaigrette, flat bread, wat sauce *gluten",
+        "price": "$ 8,470"
+      },
+      {
+        "title": "Tibs and Grits",
+        "desc": "Traditional berbere beef tibs served over creamy rice grits, local kibe, melted mozzarella, injera crumble *dairy / gluten",
+        "price": "$ 6,000"
+      }
+    ],
+    "Sides": [
+      {
+        "title": "Baked Mac & Cheese",
+        "desc": "Creamy, golden-baked *dairy / gluten",
+        "price": "$ 950"
+      },
+      {
+        "title": "Creamy Gomen",
+        "desc": "Slow-simmered collards, awaze, cream, seasoned butter *dairy",
+        "price": "$ 850"
+      },
+      {
+        "title": "Smashed Potato",
+        "desc": "Herb vinaigrette, grated cheese *dairy",
+        "price": "$ 660"
+      },
+      {
+        "title": "Berbere Fries",
+        "desc": "Hand-cut fries, berbere spiced dust",
+        "price": "$ 550"
+      }
+    ],
+    "Kids": [
+      {
+        "title": "Kid’s Spaghetti",
+        "desc": "100g spaghetti, butter, cheese *gluten / dairy",
+        "price": "$ 750"
+      },
+      {
+        "title": "Kid’s Chicken Tenders & Fries",
+        "desc": "Tenders, fries, ketchup, honey mustard *gluten",
+        "price": "$ 850"
+      },
+      {
+        "title": "Kid’s Mac & Cheese",
+        "desc": "Macaroni, cream, cheese *dairy / gluten",
+        "price": "$ 750"
+      },
+      {
+        "title": "Steak Frites",
+        "desc": "120g tenderloin, fries, ketchup",
+        "price": "$ 950"
+      },
+      {
+        "title": "Kid’s Burger & Fries",
+        "desc": "Mini buns, cheese, beef pattie *dairy / gluten",
+        "price": "$ 950"
+      }
+    ],
+    "Dessert": [
+      {
+        "title": "Chocolate Cake",
+        "desc": "Dark chocolate, strawberry sauce, butter cream, coco powder *dairy / egg / gluten",
+        "price": "$ 1,000"
+      },
+      {
+        "title": "Cheesecake",
+        "desc": "Fresh cream, chocolate, sugar, strawberry jelly *dairy",
+        "price": "$ 1,000"
+      },
+      {
+        "title": "Ice Cream of The Day",
+        "desc": "",
+        "price": "$ 1,000"
+      },
+      {
+        "title": "Abyssinia Cake",
+        "desc": "Ice cream, fruit, spicy caramelized nuts, whipped cream *dairy",
+        "price": "$ 1,500"
+      },
+      {
+        "title": "Churros",
+        "desc": "Chocolate sticks, vanilla ice cream *dairy / gluten",
+        "price": "$ 1,000"
+      },
+      {
+        "title": "Addis Fruit Salad",
+        "desc": "",
+        "price": "$ 800"
+      },
+      {
+        "title": "Mitmita Carrot Cake",
+        "desc": "Fasting Item Strawberry purée, ginger, vegan cream *gluten",
+        "price": "$ 800"
+      },
+      {
+        "title": "Dream Dessert",
+        "desc": "Vanilla, chocolate, sorbet ice cream, chanty cream, streusel, chocolate cake, popcorn, churros *dairy / gluten",
+        "price": "$ 3,000"
+      }
+    ]
+  },
+  "Bar Menu": {
+    "Cocktails & Spirits": [],
+    "Soft Drinks": [
+      {
+        "title": "Still Water",
+        "desc": "(1/2LT)",
+        "price": "$ 350"
+      },
+      {
+        "title": "Ambo Sparkling Water",
+        "desc": "",
+        "price": "$ 350"
+      },
+      {
+        "title": "Coca Cola, Coke Zero",
+        "desc": "",
+        "price": "$ 350"
+      },
+      {
+        "title": "Fanta, Fanta Zero",
+        "desc": "",
+        "price": "$ 350"
+      },
+      {
+        "title": "Sprite, Sprite Zero",
+        "desc": "",
+        "price": "$ 350"
+      },
+      {
+        "title": "Schweppes Tonic",
+        "desc": "",
+        "price": "$ 350"
+      },
+      {
+        "title": "Novida",
+        "desc": "",
+        "price": "$ 350"
+      },
+      {
+        "title": "Marathon Tonic Water",
+        "desc": "",
+        "price": "$ 350"
+      },
+      {
+        "title": "Marathon Ginger Beer",
+        "desc": "",
+        "price": "$ 350"
+      }
+    ],
+    "Bottled Beers": [
+      {
+        "title": "St. George",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Castel",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Walia",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Bedele Special",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Harar",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Dashen",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Habesha",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Heineken",
+        "desc": "",
+        "price": "$ 395"
+      },
+      {
+        "title": "Heineken Draft",
+        "desc": "",
+        "price": "$ 495"
+      },
+      {
+        "title": "St. George Draft",
+        "desc": "",
+        "price": "$ 495"
+      },
+      {
+        "title": "Sofi Malt",
+        "desc": "(Non-Alcoholic)",
+        "price": "$ 380"
+      },
+      {
+        "title": "Bertat",
+        "desc": "(Non-Alcoholic)",
+        "price": "$ 380"
+      },
+      {
+        "title": "Negus",
+        "desc": "(Non-Alcoholic)",
+        "price": "$ 380"
+      },
+      {
+        "title": "Sen'Q",
+        "desc": "(Non-Alcoholic)",
+        "price": "$ 380"
+      }
+    ],
+    "Cocktails": [
+      {
+        "title": "Signature Cocktails",
+        "desc": "Transport yourself back to the heartwarming nostalgia of Ethiopian childhood with our signature cocktails. Each one is lovingly named after a cherished Habesha memory. Embrace the joy as we invite you to relish in the beauty of traditional Habesha culture through the art of mixology. Cheers to the timeless spirit of Ethiopia!",
+        "price": ""
+      },
+      {
+        "title": "From Gojo with Love",
+        "desc": "(Tequila, triple sec, watermelon, berbere, lime) This delightful libation embodies the lively, welcoming spirit of Ethiopian hospitality. Our twist on a margarita, the fusion of tequila, lime and watermelon uplifts the cocktail, while a sprinkle of bebere brings a touch of heat and aromatic spice which will instantly transport you to the warmth and love found in an Ethiopian home",
+        "price": ""
+      },
+      {
+        "title": "Segno Maksegno",
+        "desc": "(Gin, lemon verbena honey, bessobella, cucumber) Segno maksegno (which also means \"Monday Tuesday\" (in english) is the Ethiopian version of hopscotch. As you raise your glass to take the first sip the aromas of local lemon verbena and bessobella blend beautifully, inviting you to savor the symphony where worries are forgotten, and the world seems to glow in the warmth of the sunlit afternoon",
+        "price": ""
+      },
+      {
+        "title": "Biy Champion",
+        "desc": "(Coffee bean bourbon, cascara & mango cordial, house ginger beer) Presenting the biy champion, an invigorating cocktail inspired by the game played by children across the diaspora (where it is also called marbles, pitch and many others depending on region). The marriage of coffee infused bourbon and traditional Trinidadian ginger beer is as playful as the game itself where children compete to see who can shoot their marbles into the hole or knock other marbles out of the game",
+        "price": ""
+      },
+      {
+        "title": "Konjo Girl",
+        "desc": "(Dark rum, bisaap, lavender, guava, spiced sugar) The konjo girl is a toast to the breathtaking beauty of the women of Ethiopia and a love song to the pulse of its vibrant culture. A smooth and velvety mix of dark rum and guava add tropical notes while lavender and hibiscus give a subtle, floral dimension to this delicious elixir",
+        "price": ""
+      },
+      {
+        "title": "Desta Dream",
+        "desc": "(Gin, elderflower liqueur, koseret cordial, fresh mint, soda) In this cocktail we have managed to capture the essence of happiness and pour it into a glass. The gin's bouquet tickles your senses, while the elderflower liqueur adds a touch of sweetness. But it's the presence of koseret that truly makes it special & unique. This beloved Ethiopian herb infuses the drink with its comforting aroma and earthiness. As you take your first sip, a smile will naturally find its way to your lips",
+        "price": ""
+      },
+      {
+        "title": "Tiba Tibae",
+        "desc": "(Vodka, apricot liqueur, coconut, pineapple, papaya) This enticing libation blends the luscious flavors of vodka, coconut, and apricot liqueur, pineapple and papaya bringing the spirit of Tiba Tibae to life in every sip. The game, Tiba Tibae is this fun game played by Habesha girls in the schoolyard, the coconut & rich texture bounces back and forth with the fruitiness of the apricot liqueur creating a balanced cocktail that is both refreshing and rich.",
+        "price": ""
+      }
+    ],
+    "Free Spirited Cocktails": [
+      {
+        "title": "Heat of The Moment",
+        "desc": "(Pineapple, passion fruit, berbere) The Caribbean meets Addis Ababa in this tantalizing, alcohol-free cocktail that will set your taste buds ablaze with its exotic appeal. Crafted with a harmonious blend of pineapple, passion fruit, and a dash of berbere spice, this mocktail promises an unforgettable journey of flavors",
+        "price": ""
+      },
+      {
+        "title": "Golden Hour",
+        "desc": "(Fresh carrot, fresh orange, ginger, bissana mar) Embrace the vibrant hues of the sun setting over Entoto as you savor the naturally sweet and earthy essence of freshly squeezed carrot, complemented by the zesty brightness of citrus, and the subtle heat and spiciness of ginger. In this elixir you will experience the beauty of the moment and all without a drop of alcohol",
+        "price": ""
+      },
+      {
+        "title": "Honey Breeze",
+        "desc": "(Fresh cucumber, pineapple, lime, honey, mint) High above the city on the 47th floor, where the air feels lighter and the skyline stretched endlessly. Honey Breeze was inspired by a moment of calm between the rush of life. A refreshing blend of crisp cucumber, sweet pineapple, fresh mint, golden honey, and a touch of lime comes together to create a drink that feels like a deep, revitalizing breath",
+        "price": ""
+      }
+    ],
+    "Teas": [
+      {
+        "title": "Black Tea",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Cinnamon Tea",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Green Tea",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Iced Tea",
+        "desc": "",
+        "price": "$ 430"
+      }
+    ],
+    "Infusion": [
+      {
+        "title": "Ginger Tea",
+        "desc": "Served with lemon & honey",
+        "price": "$ 550"
+      },
+      {
+        "title": "Cascara with Ginger",
+        "desc": "",
+        "price": "$ 550"
+      }
+    ],
+    "Coffee": [
+      {
+        "title": "Espresso",
+        "desc": "",
+        "price": "$ 360"
+      },
+      {
+        "title": "Double Espresso",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Macchiato",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Ethiopian Style Macchiato",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Double Macchiato",
+        "desc": "",
+        "price": "$ 500"
+      },
+      {
+        "title": "Cappuccino",
+        "desc": "",
+        "price": "$ 500"
+      },
+      {
+        "title": "Americano",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Latte",
+        "desc": "",
+        "price": "$ 500"
+      }
+    ],
+    "Cold Coffees": [
+      {
+        "title": "Cold Brew",
+        "desc": "",
+        "price": "$ 430"
+      },
+      {
+        "title": "Cascara",
+        "desc": "With ginger and honey",
+        "price": "$ 420"
+      },
+      {
+        "title": "Seasonal Frappuccinos",
+        "desc": "",
+        "price": "$ 170"
+      },
+      {
+        "title": "Iced Coffee",
+        "desc": "",
+        "price": "$ 420"
+      }
+    ],
+    "Aperitifs": [
+      {
+        "title": "Campari Lt",
+        "desc": "",
+        "price": "30ML. $ 750"
+      },
+      {
+        "title": "Pernod Lt",
+        "desc": "",
+        "price": "30ML. $ 450"
+      },
+      {
+        "title": "Pernod Absinth 70cl",
+        "desc": "",
+        "price": "30ML. $ 900"
+      },
+      {
+        "title": "Ricardo Lt",
+        "desc": "",
+        "price": "30ML. $ 550"
+      },
+      {
+        "title": "Martini Bianco, Rosso, Extra Dry Lt",
+        "desc": "",
+        "price": "30ML. $ 900"
+      },
+      {
+        "title": "Aperol Poco Lt.",
+        "desc": "",
+        "price": "30ML. $ 800"
+      },
+      {
+        "title": "Fernet Branca Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      }
+    ],
+    "Vodka": [
+      {
+        "title": "Absolut Blue Lt.",
+        "desc": "",
+        "price": "30ML. $ 650"
+      },
+      {
+        "title": "Cîroc Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,350"
+      },
+      {
+        "title": "Ketel One Lt.",
+        "desc": "",
+        "price": "30ML. $ 600"
+      },
+      {
+        "title": "Belvedere",
+        "desc": "",
+        "price": "30ML. $ 990"
+      },
+      {
+        "title": "Marathon Vodka Lt.",
+        "desc": "",
+        "price": "30ML. $ 350"
+      },
+      {
+        "title": "Tito's Handmade Vodka",
+        "desc": "",
+        "price": "30ML. $ 850"
+      },
+      {
+        "title": "Grey Goose Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,350"
+      }
+    ],
+    "Rum": [
+      {
+        "title": "Malibu Lt.",
+        "desc": "",
+        "price": "30ML. $ 325"
+      },
+      {
+        "title": "Bacardi White Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,150"
+      },
+      {
+        "title": "Bacardi Gold Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,150"
+      },
+      {
+        "title": "Captain Morgan Black Lt.",
+        "desc": "",
+        "price": "30ML. $ 850"
+      },
+      {
+        "title": "Captain Morgan Spice Gold Lt.",
+        "desc": "",
+        "price": "30ML. $ 800"
+      },
+      {
+        "title": "Havana Club",
+        "desc": "",
+        "price": "30ML. $ 100"
+      }
+    ],
+    "Whisky": [
+      {
+        "title": "J&B Rare Lt.",
+        "desc": "",
+        "price": "30ML. $ 560"
+      },
+      {
+        "title": "Jameson Lt.",
+        "desc": "",
+        "price": "30ML. $ 750"
+      },
+      {
+        "title": "J.W. Red Label Lt.",
+        "desc": "",
+        "price": "30ML. $ 750"
+      },
+      {
+        "title": "J.W. BlackLabel Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,050"
+      },
+      {
+        "title": "J.W. Double BlackLabel Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,400"
+      },
+      {
+        "title": "J.W. Gold Reserve Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,650"
+      },
+      {
+        "title": "J.W. 18 Yrs Lt.",
+        "desc": "",
+        "price": "30ML. $ 2,600"
+      },
+      {
+        "title": "J.W. Blue Label Lt.",
+        "desc": "",
+        "price": "30ML. $ 4,350"
+      },
+      {
+        "title": "Chivas Regal 12 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,050"
+      },
+      {
+        "title": "Chivas Regal 15 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,750"
+      },
+      {
+        "title": "Chivas Regal 18 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 2,950"
+      }
+    ],
+    "Tequila": [
+      {
+        "title": "Jose Cuervo Especial Silver Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,290"
+      },
+      {
+        "title": "Jose Cuervo Special Gold Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,290"
+      },
+      {
+        "title": "Olmeca Blanco Lt.",
+        "desc": "",
+        "price": "30ML. $ 350"
+      },
+      {
+        "title": "Olmeca Dark Chocolate",
+        "desc": "",
+        "price": "30ML. $ 275"
+      },
+      {
+        "title": "Patron Coffee X.O. 75cl",
+        "desc": "",
+        "price": "30ML. $ 3,100"
+      },
+      {
+        "title": "Patron Silver Lt.",
+        "desc": "",
+        "price": "30ML. $ 3,150"
+      },
+      {
+        "title": "Don Julio Reposado 75cl",
+        "desc": "",
+        "price": "30ML. $ 3,550"
+      },
+      {
+        "title": "Casamigos Lt.",
+        "desc": "",
+        "price": "30ML. $ 3,950"
+      }
+    ],
+    "Gin": [
+      {
+        "title": "Hendrick’s Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,450"
+      },
+      {
+        "title": "Bombay Sapphire Lt.",
+        "desc": "",
+        "price": "30ML. $ 850"
+      },
+      {
+        "title": "Tanqueray Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,050"
+      },
+      {
+        "title": "Gordon's Gin Lt.",
+        "desc": "",
+        "price": "30ML. $ 750"
+      },
+      {
+        "title": "Beefeater London Dry Lt.",
+        "desc": "",
+        "price": "30ML. $ 850"
+      },
+      {
+        "title": "Marathon Gin 75cl",
+        "desc": "",
+        "price": "30ML. $ 350"
+      }
+    ],
+    "Bourbon": [
+      {
+        "title": "Makers Mark Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,650"
+      },
+      {
+        "title": "Jack Daniel's Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,200"
+      }
+    ],
+    "Cognac": [
+      {
+        "title": "Hennessey V.S. Lt.",
+        "desc": "",
+        "price": "30ML. $ 2,250"
+      },
+      {
+        "title": "Courvoisier V.S.O.P. Lt.",
+        "desc": "",
+        "price": "30ML. $ 2,750"
+      },
+      {
+        "title": "Remy Martin V.S.O.P. Lt.",
+        "desc": "",
+        "price": "30ML. $ 2,750"
+      },
+      {
+        "title": "Hennessey V.S.O.P. Lt.",
+        "desc": "",
+        "price": "30ML. $ 3,450"
+      },
+      {
+        "title": "Courvoisier X.O. 70cl.",
+        "desc": "",
+        "price": "30ML. $ 4,950"
+      }
+    ],
+    "Liqueurs": [
+      {
+        "title": "Jagermeister Lt.",
+        "desc": "",
+        "price": "30ML. $ 750"
+      },
+      {
+        "title": "Grand Marnier 70cl.",
+        "desc": "",
+        "price": "30ML. $ 1,450"
+      },
+      {
+        "title": "Cointreau Lt.",
+        "desc": "",
+        "price": "30ML. $ 950"
+      },
+      {
+        "title": "Amaretto Disarnno Original Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,050"
+      },
+      {
+        "title": "Kahlua Lt.",
+        "desc": "",
+        "price": "30ML. $ 950"
+      },
+      {
+        "title": "Baileys Lt.",
+        "desc": "",
+        "price": "30ML. $ 850"
+      }
+    ],
+    "Single Malt": [
+      {
+        "title": "Singleton 12 Yrs. 75cl.",
+        "desc": "",
+        "price": "30ML. $ 1,850"
+      },
+      {
+        "title": "Talisker 10 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,650"
+      },
+      {
+        "title": "Glenfiddich 12 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,950"
+      },
+      {
+        "title": "Glenfiddich 15 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 2,450"
+      },
+      {
+        "title": "Glenfiddich 18 Yrs. 75cl.",
+        "desc": "",
+        "price": "30ML. $ 2,450"
+      },
+      {
+        "title": "Monkey Shoulder 70cl.",
+        "desc": "",
+        "price": "30ML. $ 1,500"
+      },
+      {
+        "title": "Glenlivet 12 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Glenlivet 15 Yrs. Lt.",
+        "desc": "",
+        "price": "30ML. $ 1,870"
+      },
+      {
+        "title": "Glenkinchie 12 Yrs. 75cl.",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Nikka Taketsuru Pure Malt 70cl.",
+        "desc": "",
+        "price": "30ML. $ 3,500"
+      },
+      {
+        "title": "Nikka Yochi Single Malt 70cl.",
+        "desc": "",
+        "price": "30ML. $ 3,650"
+      }
+    ]
+  },
+  "Wine List": {
+    "White Wine": [
+      {
+        "title": "Acacia, Medium-Sweet, Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Gebeta, Awash, Chenin Blanc, Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,200"
+      },
+      {
+        "title": "Rift Valle, Chienin Blanc, Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,375"
+      },
+      {
+        "title": "Rift Valley Cuvee Prestige, Chardonnay, Ethiopia",
+        "desc": "",
+        "price": "Bottle $ 7,400"
+      },
+      {
+        "title": "Antica Natural Sweet White, Western Cape, South Africa",
+        "desc": "",
+        "price": "30ML. $ 1,950"
+      },
+      {
+        "title": "Mud House, Sauvignon Blanc, New Zealand",
+        "desc": "",
+        "price": "Bottle $ 29,500"
+      },
+      {
+        "title": "Fantineltenuta Sant'Helena Sauvignon, Collio Doc, Italy",
+        "desc": "",
+        "price": "Bottle $ 38,500"
+      }
+    ],
+    "Rosé Wine": [
+      {
+        "title": "Rify Valley, Dry Rosé, Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Acacia, Medium-Sweet, Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Gebeta Medium-Dry Rosé Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,200"
+      },
+      {
+        "title": "Antica Natural Sweet Rosé, Western Cape, South Africa",
+        "desc": "",
+        "price": "30ML. $ 1,950"
+      },
+      {
+        "title": "Michel Chapoutier Marius Rosé, France",
+        "desc": "",
+        "price": "Bottle $ 12,900"
+      }
+    ],
+    "Red Wine": [
+      {
+        "title": "The Chocolate Block, South Africa 2020",
+        "desc": "",
+        "price": "Bottle $ 46,500"
+      },
+      {
+        "title": "Acacia, Medium-Sweet Ethiopian",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Rift Valley, Cabernet Sauvignon, Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Rift Valley, Malbec, Ethiopia",
+        "desc": "",
+        "price": "30ML. $ 1,250"
+      },
+      {
+        "title": "Gebeta Syrah, Dry Red Wine, Ethiopia",
+        "desc": "",
+        "price": "Bottle $ 4,750"
+      },
+      {
+        "title": "Rift Valley Cuvee Prestige Cabernet Franc & Malbec, Ethiopia",
+        "desc": "",
+        "price": "Bottle $ 7,400"
+      },
+      {
+        "title": "Chocolic Pilotage, Western Cape, South Africa",
+        "desc": "",
+        "price": "Bottle $ 15,500"
+      },
+      {
+        "title": "Antica Natural Sweet Red, Western Cape, South Africa",
+        "desc": "",
+        "price": "Bottle $ 8,250"
+      },
+      {
+        "title": "Andes Soul Argento Malbec 2024, Argentina",
+        "desc": "",
+        "price": "Bottle $ 19,200"
+      },
+      {
+        "title": "Casillero Del Diablo, Cabernet Sauvignon, Chile 2022",
+        "desc": "",
+        "price": "Bottle $ 26,000"
+      },
+      {
+        "title": "Nederburg Pinotage, South Africa 2022",
+        "desc": "",
+        "price": "Bottle $ 29,000"
+      },
+      {
+        "title": "Whistling Duck, Shiraz, Australia 2024",
+        "desc": "",
+        "price": "Bottle $ 17,500"
+      },
+      {
+        "title": "Araldica Piemonte, Barbera, Italy 2023",
+        "desc": "",
+        "price": "Bottle $ 17,000"
+      },
+      {
+        "title": "Antineltenuta Collio Rosso, Collio Doc, Italy",
+        "desc": "",
+        "price": "Bottle $ 39,000"
+      },
+      {
+        "title": "Gaya, San Lorenzo, Italy 2016",
+        "desc": "",
+        "price": "Bottle $ 167,650"
+      },
+      {
+        "title": "Bottega, Brunello di Montalcino Riserva, Italy 2013",
+        "desc": "",
+        "price": "$ 118,200"
+      },
+      {
+        "title": "Opus One Cabernet Sauvignon, Napa Valley USA",
+        "desc": "",
+        "price": "Bottle $ 180,000"
+      }
+    ],
+    "Sparkling": [
+      {
+        "title": "Maison Castel Cuvee Blanche, Brut, France",
+        "desc": "",
+        "price": "30ML. $ 2,700"
+      },
+      {
+        "title": "Bottega White Brut, Italy",
+        "desc": "",
+        "price": "Bottle $ 11,500"
+      },
+      {
+        "title": "Laurent Perrier, Brut, France",
+        "desc": "",
+        "price": "$ 32,500"
+      },
+      {
+        "title": "G.H Mumm Rose Brut Champagne",
+        "desc": "",
+        "price": "$ 21,500"
+      },
+      {
+        "title": "Moet & Chandon, Imperial, Brut",
+        "desc": "",
+        "price": "$ 46,500"
+      },
+      {
+        "title": "Veuve Cliquot, France",
+        "desc": "",
+        "price": "$ 32,500"
+      },
+      {
+        "title": "Bottega Prosecco Stardust 1.5Lt",
+        "desc": "",
+        "price": "$ 105,000"
+      },
+      {
+        "title": "Bottega Prosecco Stardust 3Lt",
+        "desc": "",
+        "price": "$ 205,000"
+      }
+    ],
+    "Email Signup": []
+  }
+}
